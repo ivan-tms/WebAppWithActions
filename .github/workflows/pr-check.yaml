@@ -27,5 +27,5 @@ jobs:
           working-directory: WebApplicationWithActions
 
         - name: Tests
-          run: dotnet test --no-build
+          run: dotnet test
           working-directory: WebApplicationWithActions.Tests.Unit

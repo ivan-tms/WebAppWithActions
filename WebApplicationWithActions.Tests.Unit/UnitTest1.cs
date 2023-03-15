@@ -5,7 +5,7 @@ namespace WebApplicationWithActions.Tests.Unit
         [Fact]
         public void Test1()
         {
-            var actual = 10;
+            var actual = 12;
 
             Assert.Equal(10, actual);
         }
